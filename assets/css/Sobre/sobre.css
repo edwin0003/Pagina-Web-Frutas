@@ -1,0 +1,17 @@
+.sobre{
+    text-align: center;
+    padding: 2.5rem;
+    
+}
+
+@media screen and (min-width: 0){
+    .sobre{
+        font-size: 2.5rem 1rem;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .sobre{
+        font-size: 5.0625rem;
+    }
+}

@@ -1,0 +1,13 @@
+.menu__lista{
+    display: flex;
+}
+
+.menu__item{
+    list-style: none;
+}
+
+.menu__item :hover{
+    background-size: auto auto;
+    background: rgb(218, 179, 8);
+    border-radius: 1000px;
+}
